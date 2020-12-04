@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#FFFFFFCC",
+        "font" : "Helvetica Neue Medium",
+        "color" : "#00000065"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Helvetica Neue",
+        "color" : "#0000003F"
+      },
+      "backgroundSelected" : "#2157D8FF",
+      "text" : {
+        "size" : 14,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Helvetica Neue Medium",
+        "color" : "#0C0C0C7F"
+      },
+      "iconPaddingHorizontal" : 12,
+      "paddingVertical" : 6,
+      "iconSize" : 38
+    },
+    "search" : {
+      "paddingVertical" : 12,
+      "background" : "#FFFFFF00",
+      "spacing" : 4,
+      "text" : {
+        "size" : 26,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Helvetica Neue Medium",
+        "color" : "#000000FF"
+      },
+      "backgroundSelected" : "#016BDEFF"
+    },
+    "window" : {
+      "color" : "#FDFCFFE0",
+      "paddingHorizontal" : 0,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#00000040",
+      "blur" : 27,
+      "roundness" : 14,
+      "paddingVertical" : 8
+    },
+    "credit" : "Sudipto",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#3535367F",
+      "thickness" : 2
+    },
+    "name" : "Lound"
+  }
+}
