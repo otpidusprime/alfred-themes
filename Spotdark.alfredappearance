@@ -18,7 +18,7 @@
       "text" : {
         "size" : 14,
         "colorSelected" : "#FFFFFFFF",
-        "font" : "System Light",
+        "font" : "System",
         "color" : "#FFFFFFFF"
       },
       "iconPaddingHorizontal" : 7,
